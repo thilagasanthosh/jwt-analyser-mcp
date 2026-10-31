@@ -1,0 +1,17 @@
+spring:
+  main:
+    web-application-type: none
+    banner-mode: "off"
+  ai:
+    mcp:
+      server:
+        stdio: true
+        protocol: SSE
+
+logging:
+  level:
+    root: WARN
+  threshold:
+    console: "OFF"
+  file:
+    name: ${java.io.tmpdir}/jwt-analyser-mcp.log
