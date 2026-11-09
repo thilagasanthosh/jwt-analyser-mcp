@@ -191,8 +191,8 @@ This tool **does not validate JWT signatures**. It only decodes the base64-encod
 
 ## Related Projects
 
-- [secret-scanner-mcp](../secret-scanner-mcp) — Detect secrets and credentials in source code
-- [owasp-checker-mcp](../owasp-checker-mcp) — OWASP Top 10 AST analysis for Spring Boot
-- [http-security-headers-mcp](../http-security-headers-mcp) — HTTP security header analysis
-- [dependency-vuln-mcp](../dependency-vuln-mcp) — CVE scanning via OSV.dev
-- [test-coverage-gap-mcp](../test-coverage-gap-mcp) — Find untested Spring Boot code
+- [secret-scanner-mcp](https://github.com/thilagasanthosh/secret-scanner-mcp) — Detect secrets and credentials in source code
+- [owasp-checker-mcp](https://github.com/thilagasanthosh/owasp-checker-mcp) — OWASP Top 10 AST analysis for Spring Boot
+- [http-security-headers-mcp](https://github.com/thilagasanthosh/http-security-headers-mcp) — HTTP security header analysis
+- [dependency-vuln-mcp](https://github.com/thilagasanthosh/dependency-vuln-mcp) — CVE scanning via OSV.dev
+- [test-coverage-gap-mcp](https://github.com/thilagasanthosh/test-coverage-gap-mcp) — Find untested Spring Boot code
